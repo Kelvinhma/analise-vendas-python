@@ -35,7 +35,7 @@ A partir do processamento dos dados, foram identificados os seguintes pontos:
 ---
 
 ## 📈 Visualizações
-![faturamento_região.png](img/faturamento_região.png)
+![output.png](img/output.png)
 ---
 
 ## 👤 Autor
