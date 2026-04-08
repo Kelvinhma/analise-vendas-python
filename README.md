@@ -5,7 +5,7 @@ Este projeto consiste em uma análise exploratória de dados (EDA) focada em mé
 ---
 
 ## 🛠️ Tecnologias e Bibliotecas
-* **Python 3**: Linguagem principal.
+* **Python 3.x**: Linguagem principal.
 * **Pandas**: Manipulação e tratamento de dados.
 * **Matplotlib**: Visualização e geração de gráficos.
 
@@ -21,7 +21,7 @@ Este projeto consiste em uma análise exploratória de dados (EDA) focada em mé
 A análise foi estruturada para responder a perguntas de negócio fundamentais:
 * **Faturamento Global:** Consolidação da receita total no período.
 * **Volume de Vendas:** Identificação dos produtos com maior giro de estoque.
-* **Rentabilidade:** Rankeamento de produtos por contribuição financeira.
+* **Rentabilidade por SKU:** Rankeamento de produtos por contribuição financeira (receita absoluta).
 * **Performance Regional:** Distribuição do faturamento por zonas geográficas.
 
 ---
@@ -35,10 +35,8 @@ A partir do processamento dos dados, foram identificados os seguintes pontos:
 ---
 
 ## 📈 Visualizações
-> []  
-> Gráficos de barras e séries temporais estão sendo implementados para ilustrar o desempenho regional e a sazonalidade das vendas.
-
+![faturamento_região.png](img/faturamento_região.png)
 ---
 
 ## 👤 Autor
-**Kelvin Henrique** *Analista de Dados em formação* [LinkedIn](SEU_LINK_AQUI) | [Email](kelvin.moreira9@outlook.com)
+**Kelvin Henrique** *Analista de Dados em formação* [LinkedIn](SEU_LINK_AQUI) | [Email](SEU_EMAIL_AQUI)
